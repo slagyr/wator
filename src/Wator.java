@@ -21,7 +21,7 @@ public class Wator extends Applet
     private int startShark = 0; // populations if so dexired.
 
     // public variables
-    public  int cellSize = 3;   // The pixel size of a single cell
+    public  int cellSize = 2;   // The pixel size of a single cell
     public  int watorWidth;     // The width of the Wator world in cells.
     public  int watorHeight;    // The Height of the Wator world in cells.
 
